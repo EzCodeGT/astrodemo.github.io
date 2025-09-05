@@ -14,6 +14,9 @@ snippet: Astro is a modern front-end framework that brings an interesting
   JavaScript and leveraging modern browser features.
 publishDate: 2023-07-01 22:50
 category: Frameworks
+
+pubDate: 'Jul 08 2022'
+heroImage: '../../assets/blog-placeholder-about.jpg'
 ---
 Astro is a modern front-end framework that provides developers with a faster way to build websites. It brings about an interesting paradigm shift in how we think about building modern web applications. 
 

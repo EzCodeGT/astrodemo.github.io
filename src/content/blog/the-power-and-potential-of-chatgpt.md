@@ -14,6 +14,9 @@ snippet: Unveiling the world of advanced AI with ChatGPT, a sophisticated
   applications, strengths, limitations, and future potential.
 publishDate: 2023-07-01 00:00
 category: AI and ML
+
+pubDate: 'Jul 08 2022'
+heroImage: '../../assets/blog-placeholder-about.jpg'
 ---
 Chatbots are not a new concept. However, the advancement in artificial intelligence and machine learning have revolutionized the space, creating chatbots that are remarkably human-like in their ability to understand and respond to human language. A shining example of this is ChatGPT.
 

@@ -14,6 +14,9 @@ snippet: In the world of social media marketing, a new player is making a
   how to harness them effectively
 publishDate: 2023-06-29 11:39
 category: Marketing
+
+pubDate: 'Jul 08 2022'
+heroImage: '../../assets/blog-placeholder-about.jpg'
 ---
 
 
