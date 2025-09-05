@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: EzCodeGT/astrodemo.github.io # Path to your GitHub repository
+  # optional, defaults to master
+  branch: main
