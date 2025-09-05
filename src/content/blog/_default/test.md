@@ -8,11 +8,7 @@ image:
   src: /images/chat-gpt.png
   alt: CAT
 snippet: TEST
-publishDate: 2025-09-04 20:42
+publishDate: 2025-09-04 20:44
 category: Tutorials
 ---
-# Testing
-
-## Sub2
-
-Paragraph qwerty
+TEST
